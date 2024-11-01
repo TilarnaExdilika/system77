@@ -6,7 +6,9 @@ A 2D platformer shooter game made in Godot Engine
 3. Open the Godot Engine then import the project.godot file
 
 # Gameplay Video
-https://github.com/TilarnaExdilika/system77/raw/main/System77byRavimo_demo.mp4
+<video width="100%" controls>
+  <source src="System77byRavimo_demo.mp4" type="video/mp4">
+</video>
 
 # Game Preview
 ![alt text](https://img.itch.zone/aW1hZ2UvMjI2ODYxOC8xMzQ0NTA0Ni5wbmc=/794x1000/DcV3uQ.png)
